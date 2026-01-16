@@ -6,7 +6,7 @@ Ympäristösi on valmis käytettäväksi. Pääset alkuun alla olevien ohjeiden 
                                                                                                                                         
 **Sales Panel** – Kirjaudu saamallasi käyttäjätunnuksella. Tämä on myyjien päivittäinen työkalu.                                      
                                                                                                                                         
-*Admin-paneeli** – Kirjaudu erillisellä ylläpitäjän tunnuksella. Täältä hallitset tuotteita ja asetuksia.                            
+**Admin-paneeli** – Kirjaudu erillisellä ylläpitäjän tunnuksella. Täältä hallitset tuotteita ja asetuksia.                            
                                                                                                                                         
 ## Osoitteet                                                                                                                          
                                                                                                                                         
