@@ -1,6 +1,4 @@
-Tervetuloa käyttämään Adafy CPQ:ta.
-
-Ympäristösi on valmis käytettäväksi. 
+Tervetuloa käyttämään Adafy CPQ:ta, ympäristösi on valmis käytettäväksi. 
 
 ## Aloitus
 
